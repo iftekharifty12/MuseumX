@@ -62,26 +62,6 @@ MuseumX/
 - **Admins**: Log in to the admin panel to manage museum and artifact data dynamically.
 
 ## Screenshots
-Include screenshots of your project interface (e.g., homepage, ticket purchase page, admin panel).
-
-## Contributing
-
-Contributions are welcome! Please follow these steps:
-
-1. Fork the repository.
-2. Create a new branch for your feature or bug fix.
-   ```bash
-   git checkout -b feature-name
-   ```
-3. Commit your changes.
-   ```bash
-   git commit -m "Add your message here"
-   ```
-4. Push to your branch.
-   ```bash
-   git push origin feature-name
-   ```
-5. Create a pull request.
 
 ## License
 
